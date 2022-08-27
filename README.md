@@ -8,7 +8,7 @@ I was asked to develop the back-end for an e-commerce website using Node.js, Exp
 
 ### Walkthrough
 
-[This walkthrough video demonstrates how to set up the application and shows the functionality of the API endpoints.](https://drive.google.com/file/d/178C7vg0mLt5Lmg3kz8_yPjcVAxyzu9LI/view?usp=sharing)
+[This walkthrough video demonstrates how to set up the application and shows the functionality of the API endpoints.](https://youtu.be/BtaIy6KdVEc)
 
 ### Setup
 
